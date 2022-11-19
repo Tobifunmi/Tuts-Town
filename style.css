@@ -23,8 +23,6 @@ section {
 
 .store-section {
  display: flex;
- display: -webkit-flex;
- /* vendor prefix */
  margin: 50px auto;
  width: 450px;
 }
